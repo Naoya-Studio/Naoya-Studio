@@ -4,8 +4,8 @@
 
 ### 🎯 Aspiring Engineer | 📷 Photography Enthusiast | 🎧 Music Lover
 
-[![GitHub followers](https://img.shields.io/github/followers/Naoya-Program?style=for-the-badge&logo=github&color=181717)](https://github.com/Naoya-Program)
-[![GitHub stars](https://img.shields.io/github/stars/Naoya-Program?style=for-the-badge&logo=github&color=181717)](https://github.com/Naoya-Program)
+[![GitHub followers](https://img.shields.io/github/followers/Naoya-Studio?style=for-the-badge&logo=github&color=181717)](https://github.com/Naoya-Studio)
+[![GitHub stars](https://img.shields.io/github/stars/Naoya-Studio?style=for-the-badge&logo=github&color=181717)](https://github.com/Naoya-Studio)
 
 </div>
 
@@ -56,11 +56,11 @@ const naoya = {
 
 <div align="center">
 
-![Naoya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naoya-Program&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Naoya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naoya-Studio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naoya-Program&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naoya-Studio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Naoya-Program&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Naoya-Studio&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
@@ -88,7 +88,7 @@ const naoya = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naoya-Program)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naoya-Studio)
 
 </div>
 
@@ -104,6 +104,6 @@ const naoya = {
 </div>
 
 <!---
-Naoya-Program/Naoya-Program is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Naoya-Studio/Naoya-Studio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
