@@ -4,12 +4,12 @@
 
 ### 👋 About
 
-<table style="border:none;">
+<table>
   <tr>
-    <td width="180" valign="middle" align="center" style="border:none;">
-      <img src="./profile.jpg" alt="Naoya profile photo" width="160" height="160" style="border-radius:50%;object-fit:cover;" />
+    <td width="180" valign="middle" align="center">
+      <img src="./profile.jpg" alt="Naoya profile photo" width="160" height="160" />
     </td>
-    <td valign="top" style="border:none;">
+    <td valign="top">
       <p>
         <b>Name</b>: Naoya<br/>
         <b>Location</b>: Japan<br/>
@@ -30,58 +30,30 @@
 #### Development
 
 <p>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;margin-right:6px;">
-    <img src="https://portfolio-naoya.vercel.app/icons/nextjs.svg" alt="Next.js" style="width:36px;max-height:36px;height:auto;" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;margin-right:6px;">
-    <img src="https://portfolio-naoya.vercel.app/icons/react.svg" alt="React" style="width:36px;max-height:36px;height:auto;" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;margin-right:6px;">
-    <img src="https://portfolio-naoya.vercel.app/icons/typescript.svg" alt="TypeScript" style="width:36px;max-height:36px;height:auto;" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;margin-right:6px;">
-    <img src="https://portfolio-naoya.vercel.app/icons/tailwindcss.svg" alt="Tailwind CSS" style="width:36px;max-height:36px;height:auto;" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;margin-right:6px;">
-    <img src="https://portfolio-naoya.vercel.app/icons/nodejs.svg" alt="Node.js" style="width:36px;max-height:36px;height:auto;" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;margin-right:6px;">
-    <img src="https://portfolio-naoya.vercel.app/icons/python.svg" alt="Python" style="width:36px;max-height:36px;height:auto;" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;margin-right:6px;">
-    <img src="https://portfolio-naoya.vercel.app/icons/javascript.svg" alt="JavaScript" style="width:36px;max-height:36px;height:auto;" />
-  </span>
+  <img src="https://portfolio-naoya.vercel.app/icons/nextjs.svg" alt="Next.js" width="36" height="36" />
+  <img src="https://portfolio-naoya.vercel.app/icons/react.svg" alt="React" width="36" height="36" />
+  <img src="https://portfolio-naoya.vercel.app/icons/typescript.svg" alt="TypeScript" width="36" height="36" />
+  <img src="https://portfolio-naoya.vercel.app/icons/tailwindcss.svg" alt="Tailwind CSS" width="36" height="36" />
+  <img src="https://portfolio-naoya.vercel.app/icons/nodejs.svg" alt="Node.js" width="36" height="36" />
+  <img src="https://portfolio-naoya.vercel.app/icons/python.svg" alt="Python" width="36" height="36" />
+  <img src="https://portfolio-naoya.vercel.app/icons/javascript.svg" alt="JavaScript" width="36" height="36" />
 </p>
 
 #### Design
 
 <p>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;margin-right:6px;">
-    <img src="https://portfolio-naoya.vercel.app/icons/figma.svg" alt="Figma" style="width:36px;max-height:36px;height:auto;" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;margin-right:6px;">
-    <img src="https://portfolio-naoya.vercel.app/icons/photoshop.svg" alt="Photoshop" style="width:36px;max-height:36px;height:auto;" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;margin-right:6px;">
-    <img src="https://portfolio-naoya.vercel.app/icons/illustrator.svg" alt="Illustrator" style="width:36px;max-height:36px;height:auto;" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;margin-right:6px;">
-    <img src="https://portfolio-naoya.vercel.app/icons/canva.svg" alt="Canva" style="width:36px;max-height:36px;height:auto;" />
-  </span>
+  <img src="https://portfolio-naoya.vercel.app/icons/figma.svg" alt="Figma" width="36" height="36" />
+  <img src="https://portfolio-naoya.vercel.app/icons/photoshop.svg" alt="Photoshop" width="36" height="36" />
+  <img src="https://portfolio-naoya.vercel.app/icons/illustrator.svg" alt="Illustrator" width="36" height="36" />
+  <img src="https://portfolio-naoya.vercel.app/icons/canva.svg" alt="Canva" width="36" height="36" />
 </p>
 
 #### Creative
 
 <p>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;margin-right:6px;">
-    <img src="https://portfolio-naoya.vercel.app/icons/lightroom.svg" alt="Lightroom" style="width:36px;max-height:36px;height:auto;" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;margin-right:6px;">
-    <img src="https://portfolio-naoya.vercel.app/icons/davinci-resolve.svg" alt="DaVinci Resolve" style="width:36px;max-height:36px;height:auto;" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;margin-right:6px;">
-    <img src="https://portfolio-naoya.vercel.app/icons/premiere-pro.svg" alt="Premiere Pro" style="width:36px;max-height:36px;height:auto;" />
-  </span>
+  <img src="https://portfolio-naoya.vercel.app/icons/lightroom.svg" alt="Lightroom" width="36" height="36" />
+  <img src="https://portfolio-naoya.vercel.app/icons/davinci-resolve.svg" alt="DaVinci Resolve" width="36" height="36" />
+  <img src="https://portfolio-naoya.vercel.app/icons/premiere-pro.svg" alt="Premiere Pro" width="36" height="36" />
 </p>
 
 ---
